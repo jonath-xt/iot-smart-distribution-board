@@ -19,3 +19,10 @@ The ESP32 reads the PZEM modules every second and compares each device with its 
 
 ## Safety
 This is a prototype. The relays supplement the MCBs and do not replace them. Mains wiring should be done by a qualified person.
+## Screenshots and Hardware
+
+### Hardware prototype
+![Hardware prototype](docs/prototype.jpg)
+
+### Web dashboard
+![Web dashboard](docs/dashboard.jpg)
