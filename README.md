@@ -1,6 +1,6 @@
 # iot-smart-distribution-board
 
-A smart distribution board that monitors each device and disconnects **only the device that overloads**, instead of tripping the whole house.
+A smart distribution board that monitors each device and disconnects **only the device that over consumes energy**, instead of tripping the whole house.
 
 ## Features
 - Measures voltage, current, power, energy, frequency and power factor per circuit and device (PZEM-004T V3.0)
